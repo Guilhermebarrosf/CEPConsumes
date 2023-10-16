@@ -1,6 +1,6 @@
 # Projeto CEPConsumes para descobrir informações de CEP
 
-  - Foi Utilizado Bootstrap e Consumido uma API que encontra informações do CEP inserido
+  - Foi Consumido uma API que encontra informações do CEP inserido
     
 ## API ViaCep
   - https://viacep.com.br/ws/${cep}/json/
