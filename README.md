@@ -10,4 +10,4 @@
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   - git clone https://github.com/guilhermebarrosf/CEPConsumes.git
+   - git clone https://github.com/Guilhermebarrosf/CEPConsumes.git
